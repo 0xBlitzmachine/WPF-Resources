@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="Slate1" Color="#111113" />
+    <SolidColorBrush x:Key="Slate2" Color="#18191b" />
+    <SolidColorBrush x:Key="Slate3" Color="#212225" />
+    <SolidColorBrush x:Key="Slate4" Color="#272a2d" />
+    <SolidColorBrush x:Key="Slate5" Color="#2e3135" />
+    <SolidColorBrush x:Key="Slate6" Color="#363a3f" />
+    <SolidColorBrush x:Key="Slate7" Color="#43484e" />
+    <SolidColorBrush x:Key="Slate8" Color="#5a6169" />
+    <SolidColorBrush x:Key="Slate9" Color="#696e77" />
+    <SolidColorBrush x:Key="Slate10" Color="#777b84" />
+    <SolidColorBrush x:Key="Slate11" Color="#b0b4ba" />
+    <SolidColorBrush x:Key="Slate12" Color="#edeef0" />
+
+</ResourceDictionary>
